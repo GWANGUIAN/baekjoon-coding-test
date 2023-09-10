@@ -1,0 +1,12 @@
+{
+  "name": "study-coding-test",
+  "version": "1.0.0",
+  "repository": "https://github.com/bestbrothers/study-coding-test.git",
+  "license": "MIT",
+  "scripts": {
+    "test" : "nodemon template.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
